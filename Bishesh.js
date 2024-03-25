@@ -78,7 +78,7 @@ function proxyr() {
 }
 
 if (cluster.isMaster) {
-  console.log('\x1b[38;2;255;0;255m' + 'Script By Yasuo');
+  console.log('\x1b[38;2;255;0;255m' + 'Script By Bishesh');
   console.log('\x1b[1m' + 'Attack sent all proxies to the website.');
 
   for (var bb = 0; bb < thread; bb++) {
